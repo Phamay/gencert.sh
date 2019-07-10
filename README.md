@@ -1,2 +1,2 @@
 # gencert.sh
-auto generate ssl
+auto generate ssl for https
